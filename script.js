@@ -29,9 +29,10 @@ themeToggle.addEventListener("click", () => {
 // separated by commas. Watch your commas!
 // ============================================================
 const roles = [
-  "CS student",
-  "hackathon builder",
-  "future software engineer"
+  "first year CS student",
+  "aspiring game developer",
+  "future software engineer",
+  "geek"
 ];
 
 const roleElement = document.getElementById("rotatingRole");
