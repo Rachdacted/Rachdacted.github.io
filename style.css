@@ -183,7 +183,7 @@ h1 {
 /* ---------- Sections ---------- */
 .section {
   padding: 60px 0;
-  border-top: 3px solid var(--border);
+  border-top: 2px solid var(--border);
 }
 
 h2 {
@@ -266,7 +266,7 @@ h3 { margin: 26px 0 12px; }
   padding-bottom: 40px;
   color: var(--muted);
   font-size: 0.9rem;
-  border-top: 5px solid var(--border);
+  border-top: 2px solid var(--border);
 }
 
 /* ---------- Phones ---------- */
