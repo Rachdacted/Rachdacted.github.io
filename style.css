@@ -266,7 +266,7 @@ h3 { margin: 26px 0 12px; }
   padding-bottom: 40px;
   color: var(--muted);
   font-size: 0.9rem;
-  border-top: 1px solid var(--border);
+  border-top: 5px solid var(--border);
 }
 
 /* ---------- Phones ---------- */
